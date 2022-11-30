@@ -1,11 +1,7 @@
-'use strict'
+'use strict';
 
-let userName = prompt('What is you name');
+console.log('Hey world hey');
 
-alert('Welcome to my site ${userName}! Please answer the following questions with yes/no or y/n');
+let userName = prompt('What is your name?');
 
-let questionOneGuess = prompt('Do I have a daughter');
 
-if(questionOneGuess === 'yes' || questionOneGuess === 'y'){
-  alert
-}
