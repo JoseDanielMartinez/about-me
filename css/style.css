@@ -1,7 +1,16 @@
-body{
-  background-color: darkgrey;
-}
 
-h1 {
-  font-size: 3vw;
+  
+  
+
+
+
+body {
+  background-color: darkgrey;
+  display: 3vw;
+  }
+
+footer{
+  background-color: black;
+  color: white;
+  margin-top: auto;  
 }
